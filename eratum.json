@@ -1,0 +1,12 @@
+[
+    {
+        text: "What is wrong on the page",
+        id: "ID of the element you want this to be placed near",
+        position: "[left/right]"
+    },
+    {
+        text: "Another thing that's wrong",
+        id: "another id",
+        position: "[left/right]"
+    }
+]
